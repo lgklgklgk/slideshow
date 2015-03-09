@@ -1,0 +1,20 @@
+body {
+  text-align: center;
+  margin: 0;
+}
+
+div.prev-button {
+  float: left;
+}
+
+div.next-button {
+  float: right;
+}
+
+h1 {
+  background-color: bisque;
+  margin: 0;
+  padding: 10px;
+  color: chocolate;
+  font-family: sans-serif;
+}
